@@ -1,0 +1,13 @@
+{
+  "name": "rustsuckmydick.xyz",
+  "version": "1.0.0",
+  "scripts": {
+    "tailwind-watch": "tailwindcss -i ./src/styles.css -o ./styles.css -w",
+    "tailwind-build": "tailwindcss -i ./src/styles.css -o ./styles.css -m"
+  },
+  "author": "Natalia Łotocka <flotocki002@gmail.com> (https://natawie.gay)",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
+  }
+}
